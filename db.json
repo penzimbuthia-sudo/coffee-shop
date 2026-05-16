@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Vanilla Latte",
       "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
-      "price": 400
+      "price": 390
     },
     {
       "id": "2",
@@ -13,34 +13,34 @@
       "price": 250
     },
     {
-      "id": "9fXUWLOFVoU",
+      "id": "3",
       "name": "Cappuccino",
       "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
-      "price": 434
+      "price": 370
     },
     {
-      "id": "lL47t5zUHxE",
+      "id": "4",
       "name": "Cappuccino Deluxe",
       "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
-      "price": 530
+      "price": 480
     },
     {
-      "id": "BHFBho0MrC8",
-      "name": "Mocha Delight",
+      "id": "5",
+      "name": "Mocha",
       "image": "https://images.unsplash.com/photo-1521302080334-4bebac2763a6",
-      "price": 1000
+      "price": 400
     },
     {
-      "name": "caramel ",
+       "id": "6",
+      "name": "Breakfast Maxi Combo",
       "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
-      "price": 5000,
-      "id": "axa69Q2QKck"
+      "price": 1260
     },
     {
+       "id": "7",
       "name": "Iced Americano",
       "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c",
-      "price": 500,
-      "id": "4k4tPyuYdLg"
+      "price": 390
     }
   ]
 }

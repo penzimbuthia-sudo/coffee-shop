@@ -52,7 +52,7 @@ function ProductForm() {
           value={form.name}
           placeholder="Coffee name"
           onChange={handleChange}
-          className="w-full border p-2 mb-2"
+          className="w-full border p-2 mb-2 rounded-xl border-gray-300 bg-white shadow-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-slate200 transition"
         />
 
         <input
@@ -60,7 +60,7 @@ function ProductForm() {
           value={form.image}
           placeholder="Image URL"
           onChange={handleChange}
-          className="w-full border p-2 mb-2"
+          className="w-full border p-2 mb-2 rounded-xl border-gray-300 bg-white shadow-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-slate-200 transition"
         />
 
         <input
@@ -68,7 +68,7 @@ function ProductForm() {
           value={form.price}
           placeholder="Price"
           onChange={handleChange}
-          className="w-full border p-2 mb-2"
+          className="w-full border p-2 mb-2 rounded-xl border-gray-300 bg-white shadow-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-slate-200 transition"
         />
 
         <button className="bg-amber-800 text-white px-4 py-2">
