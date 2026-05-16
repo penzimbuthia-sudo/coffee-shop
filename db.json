@@ -31,16 +31,22 @@
       "price": 400
     },
     {
-       "id": "6",
+      "id": "6",
       "name": "Breakfast Maxi Combo",
       "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
       "price": 1260
     },
     {
-       "id": "7",
+      "id": "7",
       "name": "Iced Americano",
       "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c",
       "price": 390
+    },
+    {
+      "name": "Macchiato",
+      "image": "https://unsplash.com/photos/selective-focus-photography-of-latte-in-teacup-jn-HaGWe4yw",
+      "price": 310,
+      "id": "hv6wLlqRrfY"
     }
   ]
 }
