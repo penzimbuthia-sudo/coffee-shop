@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Vanilla Latte",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+      "price": 400
+    },
+    {
+      "id": "2",
+      "name": "Espresso",
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+      "price": 250
+    },
+    {
+      "id": "9fXUWLOFVoU",
+      "name": "Cappuccino",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "price": 434
+    },
+    {
+      "id": "lL47t5zUHxE",
+      "name": "Cappuccino Deluxe",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "price": 530
+    },
+    {
+      "id": "BHFBho0MrC8",
+      "name": "Mocha Delight",
+      "image": "https://images.unsplash.com/photo-1521302080334-4bebac2763a6",
+      "price": 1000
+    },
+    {
+      "name": "caramel ",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
+      "price": 5000,
+      "id": "axa69Q2QKck"
+    },
+    {
+      "name": "Iced Americano",
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c",
+      "price": 500,
+      "id": "4k4tPyuYdLg"
+    }
+  ]
+}
